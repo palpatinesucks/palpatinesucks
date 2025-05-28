@@ -1,16 +1,12 @@
-# DarthDev — Master of Code and the Dark Side
+# DarthCommit — Master of Code and the Dark Side
 
----
-
-## About Me
-
-I am Darth — a developer forged in the crucible of the dark side.  
+I am a developer forged in the crucible of the dark side.  
 Combining ruthless precision and relentless will, I build code that commands and conquers.  
 No bug escapes my sight, no exception goes unhandled.
 
 ---
 
-## Skills & Technologies
+## Codex of the Forbidden Arts
 
 - **Ancient Frontend Sorcery:** Shadows of markup and arcane styles  
 - **Emerging Force Nexus:** Forging fragile light into dark components  
